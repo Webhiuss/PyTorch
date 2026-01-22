@@ -72,3 +72,5 @@ Contributions to PyTorch are welcome and appreciated! We value community input a
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ronaldo45rt/PyTorch/blob/main/LICENSE) file for details.
+
+Auto PR badge trigger.
